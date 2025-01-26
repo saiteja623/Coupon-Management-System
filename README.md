@@ -139,7 +139,7 @@ The following edge cases have been considered and documented to ensure that the 
 ---
 ## Unimplemented RestAPIs and Functionalities:
 
-> Note : These are the cases which I have the approach & though to implement but couldn't implement due to time constraints. 
+> Note : These are the cases which I have the approach & thought to implement but couldn't implement due to time constraints. 
 
 * GET __/api/coupons/bxgy :__ The implementaion of fetching a bxgy type coupon which includes deserialization of List<Product> object.
 
